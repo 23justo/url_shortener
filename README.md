@@ -36,4 +36,4 @@ This command will activate the uvicorn server on your local machine giving you a
 Go to localhost:8000 or the url the uvicorn server provided for you, inside this page you have a swagger page wich will give you more information on how to use the 3 endpoints available
 ![image](https://github.com/23justo/url_shortener/assets/14941128/c701d518-b61e-4468-b8a0-5f544b1fdbd5)
 
-
+If you click on a endpoint it will give you a try it out button where you can send a request, it will say wich type of data can be send and the type of responses available.
