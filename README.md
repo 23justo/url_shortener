@@ -40,3 +40,5 @@ Go to localhost:8000 or the url the uvicorn server provided for you, inside this
 ![image](https://github.com/23justo/url_shortener/assets/14941128/c701d518-b61e-4468-b8a0-5f544b1fdbd5)
 
 If you click on a endpoint it will give you a try it out button where you can send a request, it will say wich type of data can be send and the type of responses available.
+
+You can visit the redirect and endpoint and it will detect how many visits that has, also if you execute the top 100 endpoint it will show you the amount of visits
